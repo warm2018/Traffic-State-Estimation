@@ -1,0 +1,13 @@
+<edges>
+   <edge id="1i" from="1" to="0" priority="78" numLanes="3" speed="19.444" />
+   <edge id="1o" from="0" to="1" priority="78" numLanes="3" speed="19.444" />
+
+   <edge id="2i" from="2" to="0" priority="78" numLanes="3" speed="19.444" />
+   <edge id="2o" from="0" to="2" priority="78" numLanes="3" speed="19.444" />
+
+   <edge id="3i" from="3" to="0" priority="78" numLanes="3" speed="19.444" />
+   <edge id="3o" from="0" to="3" priority="78" numLanes="3" speed="19.444" />
+
+   <edge id="4i" from="4" to="0" priority="78" numLanes="3" speed="19.444" />
+   <edge id="4o" from="0" to="4" priority="78" numLanes="3" speed="19.444" />
+</edges>

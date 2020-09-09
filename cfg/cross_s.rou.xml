@@ -1,0 +1,19 @@
+<routes>
+    <vType id="mv" accel="0.8" decel="4.5" sigma="0.5" length="5" minGap="2.5" maxSpeed="20" guiShape="passenger" color="1,0,0"/>
+    <route id="n3" edges="4i 1o" />
+    <route id="n2" edges="4i 3o" />
+    <route id="n1" edges="4i 2o" />
+    <route id="e3" edges="2i 4o" />        
+    <route id="e2" edges="2i 1o" />
+    <route id="e1" edges="2i 3o" />
+    <route id="s3" edges="3i 2o" />        
+    <route id="s2" edges="3i 4o" />
+    <route id="s1" edges="3i 1o" />
+    <route id="w3" edges="1i 3o" />        
+    <route id="w2" edges="1i 2o" />
+    <route id="w1" edges="1i 4o" />
+    <flow id="s2_am"  begin="0" end= "14700" route ="s2" probability="0.041667" type="mv"/>
+    <flow id="s1_am"  begin="0" end= "14700" route ="s1" probability="0.069444" type="mv"/>
+    <flow id="s2_pm"  begin="14701" end= "29400" route ="s2" probability="0.088889" type="mv"/>
+    <flow id="s1_pm"  begin="14701" end= "29400" route ="s1" probability="0.111111" type="mv"/>
+</routes>

@@ -1,0 +1,19 @@
+
+
+<additional>
+
+  <inductionLoop id="0" lane="3i_0" pos="-100" freq="150" file="loop_s0.xml"/>
+  <inductionLoop id="1" lane="3i_1" pos="-100" freq="150" file="loop_s1.xml"/>
+  <inductionLoop id="2" lane="3i_2" pos="-100" freq="150" file="loop_s2.xml"/>
+  <inductionLoop id="3" lane="4i_0" pos="-100" freq="150" file="loop_n0.xml"/>
+  <inductionLoop id="4" lane="4i_1" pos="-100" freq="150" file="loop_n1.xml"/>
+  <inductionLoop id="5" lane="4i_2" pos="-100" freq="150" file="loop_n2.xml"/>
+
+  <inductionLoop id="0f" lane="3i_0" pos="-100" freq="150" file="loop_s0f.xml" vTypes="fcd"/>
+  <inductionLoop id="1f" lane="3i_1" pos="-100" freq="150" file="loop_s1f.xml" vTypes="fcd"/>
+  <inductionLoop id="2f" lane="3i_2" pos="-100" freq="150" file="loop_s2f.xml" vTypes="fcd"/>
+  <inductionLoop id="3f" lane="4i_0" pos="-100" freq="150" file="loop_n0f.xml" vTypes="fcd"/>
+  <inductionLoop id="4f" lane="4i_1" pos="-100" freq="150" file="loop_n1f.xml" vTypes="fcd"/>
+  <inductionLoop id="5f" lane="4i_2" pos="-100" freq="150" file="loop_n2f.xml" vTypes="fcd"/>
+
+</additional> 
